@@ -7,6 +7,7 @@
 <h7>Официальная документация:</h7>
 
  <h7><a href="https://docs.python.org/3/">Python 3</a></h7>
+ 
  <h7><a href="https://www.w3schools.com/python/">W3Schools Python<a/></h7>
 
  <h2>Редакторы и IDE</h2>
