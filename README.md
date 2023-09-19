@@ -2,6 +2,6 @@
 
 <h1 align=>С чего начать</a> 
 
-Официальная документация:
-Python 3 <a href="https://docs.python.org/3/">Наш сайт</a>
+<h1>Официальная документация:</p>
+ <a href="https://docs.python.org/3/">Python 3</a>
 
