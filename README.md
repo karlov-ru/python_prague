@@ -20,7 +20,7 @@
 
   <h2>YouTube</h2>
 
-  <h7><a href="https://youtu.be/cr_3evPrzsU">Python - Полный Курс по Python [10 ЧАСОВ]</a><h/h7>
+  <h7><a href="https://youtu.be/cr_3evPrzsU">Python - Полный Курс по Python [10 ЧАСОВ]</a></h7>
 
 
 
