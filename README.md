@@ -53,7 +53,7 @@
  <li><h7><a href="https://www.codewars.com/">CodeWars</a></h7></li>
  
 
-<<li>h7><a href="https://leetcode.com/">LeetCode</a></h7></li>
+<li><h7><a href="https://leetcode.com/">LeetCode</a></h7></li>
 
 <li><h7><a href="https://py.checkio.org/">CheckIO</a></h7></li>
 
