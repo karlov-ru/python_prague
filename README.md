@@ -24,18 +24,20 @@
 
   <h2>Книги</h2>
 
+  «Изучаем Python» — Марк Лутц
+
+
 «Изучаем Python. Программирование игр, визуализация данных, веб-приложения» — Эрик Мэтиз
 
   <h7><a href="https://python.swaroopch.com/">A Byte of Python [EN]</a></h7>
   
-
-
-
-
+Канал с книгами: https://t.me/+C2RgtUcxRzI4OWEy
 
   <h2>YouTube</h2>
 
   <h7><a href="https://youtu.be/cr_3evPrzsU">Python - Полный Курс по Python [10 ЧАСОВ]</a></h7>
+
+  <h2>Статьи</h2>
 
 
 
