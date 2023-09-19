@@ -9,8 +9,9 @@
  <h7><a href="https://docs.python.org/3/">Python 3</a></h7>
 
  <h2>Редакторы и IDE</h2>
- PyCharm (бесплатно для студентов)
- Visual Studio Code
+  <h7><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></h7>
+ (бесплатно для студентов)
+Visual Studio Code
 
   <h2>Книги</h2>
 
