@@ -38,6 +38,27 @@
   <h7><a href="https://youtu.be/cr_3evPrzsU">Python - Полный Курс по Python [10 ЧАСОВ]</a></h7>
 
   <h2>Статьи</h2>
+
+   <h2>Курсы</h2>
+
+   <h7><a href="https://stepik.org/course/127813/">Практические занятия по программированию на примере Python [Stepik.org]</a></h7>
+
+
+    
+
+
+  <h2>Задачки</h2>
+
+  <h7><a href="https://acm.timus.ru/">Timus Online Judge</a></h7>
+
+ <h7><a href="https://www.codewars.com/">CodeWars</a></h7>
+ 
+
+<h7><a href="https://leetcode.com/">LeetCode</a></h7>
+
+<h7><a href="https://py.checkio.org/">CheckIO</a></h7>
+
+<h7><a href="https://www.codingame.com/start/">Codingame</a></h7>
   
   <h2>Гайд по работе</h2>
   <h7><a href="http://odeskconf.github.io/guide/"> Upwork (фриланс биржа) для начинающих</a></h7>
