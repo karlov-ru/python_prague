@@ -30,9 +30,9 @@
 
 <li>«Изучаем Python. Программирование игр, визуализация данных, веб-приложения» — Эрик Мэтиз</li>
 
-  <h7><a href="https://python.swaroopch.com/">A Byte of Python [EN]</a></h7>
+  <li> <h7><a href="https://python.swaroopch.com/">A Byte of Python [EN]</a></h7></li>
   
-Канал с книгами: https://t.me/+C2RgtUcxRzI4OWEy
+ <br>Канал с книгами: https://t.me/+C2RgtUcxRzI4OWEy</br>
 
   <h2>YouTube</h2>
 
