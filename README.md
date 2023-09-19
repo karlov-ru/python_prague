@@ -38,6 +38,11 @@
   <h7><a href="https://youtu.be/cr_3evPrzsU">Python - Полный Курс по Python [10 ЧАСОВ]</a></h7>
 
   <h2>Статьи</h2>
+  
+  <h2>Гайд по работе</h2>
+  <h7><a href="http://odeskconf.github.io/guide/"> Upwork (фриланс биржа) для начинающих</a></h7>
+  
+
  <h2>Перед тем, как задать вопрос</h2>
 
  <h7><a href="https://nometa.xyz/ru.html">Убедись, что это не мета-вопрос</a></h7>
