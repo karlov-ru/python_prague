@@ -13,7 +13,7 @@
   <h7><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></h7>
  (бесплатно для студентов)
  
-<h7>Visual Studio Code</h7>
+<h7><a href="https://code.visualstudio.com/">Visual Studio Code</a></h7>
 
   <h2>Книги</h2>
 
