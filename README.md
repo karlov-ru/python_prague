@@ -6,5 +6,5 @@
 
 <h6>Официальная документация:</h6>
 
- <h7><a href="https://docs.python.org/3/">Python 3</a></h7>h7>
+ <h7><a href="https://docs.python.org/3/">Python 3</a></h7>
 
