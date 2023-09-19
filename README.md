@@ -41,11 +41,9 @@
 
    <h2>Курсы</h2>
 
-   <h7><a href="https://stepik.org/course/127813/">Практические занятия по программированию на примере Python [Stepik.org]</a></h7>
-
-
-    
-
+   <h7><a href="https://stepik.org/course/127813/">[Stepik.org] Практические занятия по программированию на примере Python</a></h7>
+   
+   <h7><a href="https://stepik.org/course/67/">[Stepik.org] Программирование на Python</a></h7>
 
   <h2>Задачки</h2>
 
