@@ -2,6 +2,6 @@
 
 <p>С чего начать<p>
 
-<h1>Официальная документация:</h1>
- <a href="https://docs.python.org/3/">Python 3</a>
+<h6>Официальная документация:</h6>
+ <h7><a href="https://docs.python.org/3/">Python 3</a><h7>
 
