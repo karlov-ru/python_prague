@@ -38,6 +38,7 @@
   <li><h7><a href="https://youtu.be/cr_3evPrzsU">Python - Полный Курс по Python [10 ЧАСОВ]</a></h7></li>
 
   <h2>Статьи</h2>
+  <li><h7><a href="https://roadmap.sh/python">Удобная карта по Python</h7></li>
 
    <h2>Курсы</h2>
 
