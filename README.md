@@ -18,10 +18,13 @@
  
 
  <h2>Редакторы и IDE</h2>
-  <li><h7><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></h7>
- (бесплатно для студентов)</li>
+  <li><h7><a href="https://www.jetbrains.com/pycharm/">PyCharm </a></h7>
+ (бесплатная версия для всех PyCharm Community, для студентов доступна PRO бесплатно)</li>
+
+
+
  
-<li><h7><a href="https://code.visualstudio.com/">Visual Studio Code</a></h7></li>
+<li><h7><a href="https://code.visualstudio.com/">Visual Studio Code </a></h7></li>
 
   <h2>Книги</h2>
 
