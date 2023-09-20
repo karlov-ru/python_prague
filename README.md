@@ -32,7 +32,6 @@
 
   <li> <h7><a href="https://python.swaroopch.com/">A Byte of Python [EN]</a></h7></li>
   
- <br>Канал с книгами: https://t.me/+C2RgtUcxRzI4OWEy</br>
 
   <h2>YouTube</h2>
 
